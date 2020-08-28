@@ -1,3 +1,5 @@
+Build files were too large to upload, used an external build and service worker server.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
